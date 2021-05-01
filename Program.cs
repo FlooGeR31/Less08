@@ -8,6 +8,7 @@ namespace Less08
 {
     class Program
     {
+        //123
         static void Main()
         {
             Type t = typeof(DateTime);
