@@ -8,7 +8,9 @@ namespace Less08
 {
     class Program
     {
-        //123
+        //8 Урок. Меланченко Александр
+        //С помощью рефлексии выведите все свойства структуры DateTime
+
         static void Main()
         {
             Type t = typeof(DateTime);
